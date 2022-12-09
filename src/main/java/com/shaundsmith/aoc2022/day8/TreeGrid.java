@@ -1,5 +1,6 @@
 package com.shaundsmith.aoc2022.day8;
 
+import com.shaundsmith.aoc2022.Coordinate;
 import lombok.AllArgsConstructor;
 
 import java.util.HashSet;
